@@ -3,7 +3,7 @@
 **Project Title:** **UFOs**
 
 **Team members:** 
-Cara Boldarini, Irina Tenis, Yanqiu Yang, Sushil Murali, Sam Fountain
+Cara Boldarini, Irina Tenis, Yanqiu Yang, Sushil Murali, Sam Fountain.
 
 **Questions to be answered:**
  #UFO sightings have been reported around the world for centuries, but where are they most commonly seen? 
@@ -16,3 +16,5 @@ National UFO Reporting Center (NUFORC) at www.nuforc.org
 
 Task breakdown: 
   UFO sightings versus Nuclear explosions - Evaluate correlation.
+  UFO sightings shapes, durations and frequency by time of the year.
+  UFO sightings by weather patterns.
