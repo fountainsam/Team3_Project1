@@ -14,4 +14,5 @@ Cara Boldarini, Irina Tenis, Yanqiu Yang, Sushil Murali, Sam Fountain
 **Datasets to be used for this project include:**  
 National UFO Reporting Center (NUFORC) at www.nuforc.org
 
-Task breakdown: TBD
+Task breakdown: 
+  UFO sightings versus Nuclear explosions - Evaluate correlation.
