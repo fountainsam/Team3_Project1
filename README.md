@@ -22,6 +22,7 @@ Cara Boldarini, Irina Tenis, Yanqiu Yang, Sushil Murali, Sam Fountain.
   - Evaluate correlation.
   - UFO sightings shapes, durations and frequency by time of the year.
   - UFO sightings by weather patterns.
+  
 **Project folder(s) navigation** 
   - Please review "Team3_Project1_Final_presentation.pptx" within the root folder for our overall project scope and accomplishments.
   - Project_Document - This folder contains all our discussion notes (Ex: Brainstorming word document shows our task breakdown).
