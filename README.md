@@ -29,3 +29,10 @@ Cara Boldarini, Irina Tenis, Yanqiu Yang, Sushil Murali, Sam Fountain.
   - Project_Data - This folder contains all the data sources used for this project.
   - Project_Code - This folder contains all the python code (Jupyter notebooks) created to generate charts to visualize our project data.
   - Project_Charts - This folder contains all the charts and visualizations genrates as part of the project.
+
+**Technologies**
+  - Python
+  - Pandas
+  - Jupyter lab
+  - Matplotlib
+  - APIs
