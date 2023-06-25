@@ -1,7 +1,4 @@
-## Team3_Project_1
- 
-**Project Title:** **UFOs**
-
+## Project 1: UFOs
 **Team members:** 
 Cara Boldarini, Irina Tenis, Yanqiu Yang, Sushil Murali, Sam Fountain.
 
